@@ -1,2 +1,3 @@
 Prompt para a IA: 
-Problemas persistentes: O nome, cidade e estado ainda está aceitando números. E o telefone está recebendo letra.A pergunta se o atleta joga com os 2 pés ainda é possivel responder com número e caracter especial.
+- Problemas persistentes: O nome, cidade e estado ainda está aceitando números. E o telefone está recebendo letra.A pergunta se o atleta joga com os 2 pés ainda é possivel responder com número e caracter especial.
+- Comente e organize o código sem altera-lo
