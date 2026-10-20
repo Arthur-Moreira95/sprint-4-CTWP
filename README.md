@@ -121,4 +121,8 @@ adicionais.
 
 ## Integrantes
 
-Arthur Moreira Costa e equipe.
+Integrantes:
+Arthur Moreira — RM 571532
+Miguel Montalvão — RM 573825
+Pedro Provadelli — RM 572547
+Vitor Louzano — RM 573885
